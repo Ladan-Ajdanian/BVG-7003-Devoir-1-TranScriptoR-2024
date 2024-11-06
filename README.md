@@ -1,6 +1,6 @@
 # BVG-7003-Devoir-1-TranScriptoR-2024
 
-A tool for identifying and visualising gene expression patterns from transcriptomic datasets. Designed to support researchers in exploring specific gene functionalities.
+The TranScriptoR-2024 tool is specifically designed for analyzing RNA-Seq data in R software. It enables researchers to examine gene expression patterns from transcriptomic datasets, offering a user-friendly interface for data visualization and exploration.  By integrating multiple analytical methods, it provides an effective means of interpreting complex RNA-Seq data and understanding gene functions in various biological contexts. This makes it a valuable tool for researchers looking to explore gene functionalities and regulatory networks within transcriptomic datasets.
 
 # Use-case
 This script is designed for RNA-seq data analysis, specifically focusing on Cannabis samples. RNA-seq (RNA sequencing) is a powerful tool to measure gene expression by sequencing RNA molecules, and this analysis identifies genes that are differentially expressed between two conditions or groups (in this case, the XX and XY groups). Cannabis plants, like some animals, have a sexual chromosome system that determines their sex. Plants with XX chromosomes are female, producing female flowers that are particularly valuable in industrial and medicinal applications because they are rich in active compounds such as cannabinoids. On the other hand, plants with XY chromosomes are male, producing male flowers, which primarily play a role in pollen production and fertilization.
